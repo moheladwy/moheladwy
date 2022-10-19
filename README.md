@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Mohamed Hussein Eladwy
 
-I am a 2nd grade student of computer science and artificial intelligence Cairo university
+I am a 2nd grade student of Computer Science and Artificial Intelligence Cairo University
 
 <!--
 **moheladwy/moheladwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
