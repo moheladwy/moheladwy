@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### Programming languages:
 
 <p>
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="50" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
-<img height="50" src="https://th.bing.com/th/id/R.d411d0ad310e2efbd49c34647c93123c?rik=WoETUkTsL8cWmw&pid=ImgRaw&r=0">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img height="60" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
+<img height="60" src="https://th.bing.com/th/id/R.d411d0ad310e2efbd49c34647c93123c?rik=WoETUkTsL8cWmw&pid=ImgRaw&r=0">
 </p>
 
 ### - 📫 How to reach me:
@@ -57,15 +57,15 @@ Here are some ideas to get you started:
 </p>
 </br> </br>
 
-## <p align="center">My Stats</p>
+## <p align="center">My GitHub States</p>
 
 <p align="center">
 
-<p align="center"><img align="inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&theme=vue-dark&layout=compact"/></p>
+<p align="inline"><img align="inline" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&theme=vue-dark&layout=compact"/>
 
-<p align="center"><img align="inline" src="https://github-readme-stats.vercel.app/api?username=moheladwy&theme=vue-dark&show_icons=true&locale=en"/></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=moheladwy&theme=vue-dark&show_icons=true&locale=en"/>
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=moheladwy&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
+<p align="inline"><img align="inline" src="http://github-readme-streak-stats.herokuapp.com?user=moheladwy&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
 
 </p>
 </br> </br>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=Solutions_Codeforces_Problems&theme=vue-dark">
 </a>
 <a href="https://github.com/moheladwy/LoginSystem">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=LoginSystem&theme=vue-dark">
+<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=LoginSystem&theme=vue-dark">
 </a>
 
 </p>
