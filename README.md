@@ -1,5 +1,6 @@
 ## Hi there 👋
-My name is Mohamed Hussein Eladwy
+My name is Mohamed Hussein Eladwy, I am 20 years old.
+
 I am a Sophomore in Computer Science and Artificial Intelligence at Cairo University.
 ### - 🌱 I’m currently learning:
 - Computer Hardware and How it works inside the machine, Calculus, Linear Algebra, Linear Programming, Statistics, and Computer Network.
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Programming languages:
+## Programming languages:
 
 <p>
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 <img height="60" src="https://th.bing.com/th/id/R.d411d0ad310e2efbd49c34647c93123c?rik=WoETUkTsL8cWmw&pid=ImgRaw&r=0">
 </p>
 
-### - 📫 How to reach me:
+## - 📫 How to reach me:
 <p>
 <a href="https://www.linkedin.com/in/mohamedhusseineladwy/">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179001975-07bf6017-536a-4ed6-8094-ebfcb3de5df7.png">
@@ -49,13 +50,25 @@ Here are some ideas to get you started:
 
 <a href="mailto:mohamed.h.eladwy@gmail.com">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179003389-f90c49c2-c9b5-4ae4-b3a2-3edfe1ad7dd2.png">
-</a> 
+</a>
+  
+</p>
+
+## - ⌨️ Websites that I practise on for problem solving:
 
 <a href="https://codeforces.com/profile/wolfwar">
-<img height="50" src="https://user-images.githubusercontent.com/101745968/179003712-c6cac176-acd3-424f-bc51-b86e5a56ff4e.png">
+<img height="60" src="https://user-images.githubusercontent.com/101745968/179003712-c6cac176-acd3-424f-bc51-b86e5a56ff4e.png">
 </a> 
-</p>
-</br> </br>
+
+<a href="https://www.hackerrank.com/EladwyMohamed">
+<img height="60" src="https://th.bing.com/th/id/OIP.v96Iu4uQcA-X8pvdzQhGcwHaHa?w=181&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+</a>
+
+<a href="https://leetcode.com/mohamed_h_eladwy/">
+<img height="60" src="https://www.bing.com/th?id=AMMS_ce7ad2c1dbb8cf8ac6bf1f78f35afa8f&w=148&h=148&c=7&o=6&dpr=1.3&pid=SANGAM">
+</a> 
+
+</br>
 
 ## <p align="center">My GitHub States</p>
 
@@ -76,7 +89,7 @@ Here are some ideas to get you started:
 <img height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=Solutions_Codeforces_Problems&theme=vue-dark">
 </a>
 
-## <p align="inline">CMD Projects in C++</p>
+## <p align="inline">CMD Projects written in C++</p>
 <p align="inline">
   
 <a href="https://github.com/moheladwy/LoginSystem">
@@ -85,7 +98,7 @@ Here are some ideas to get you started:
 
 </p>
 
-## <p align="inline">CMD Projects in Python</p>
+## <p align="inline">CMD Projects written in Python</p>
 <p align="inline">
   
 <a href="https://github.com/moheladwy/OneLineMemoryGame-Python">
