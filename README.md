@@ -84,3 +84,12 @@ Here are some ideas to get you started:
 </a>
 
 </p>
+
+## <p align="inline">CMD Projects in Python</p>
+<p align="inline">
+  
+<a href="https://github.com/moheladwy/OneLineMemoryGame-Python">
+<img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=OneLineMemoryGame-Python&theme=vue-dark">
+</a>
+  
+</p>
