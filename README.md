@@ -8,6 +8,8 @@ I am a Sophomore in Computer Science and Artificial Intelligence at Cairo Univer
 The different between Compiled Language like CPlusPlus (C++) and Interpreted Language like Python.
 
 - How to write efficient algorithms for solving problems on codeforces (you can find my solutions for codeforces' problem on my repo).
+
+- How to deal with SQL database using SQLite Engine.
 <!--
 **moheladwy/moheladwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
