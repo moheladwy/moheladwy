@@ -70,12 +70,15 @@ Here are some ideas to get you started:
 </p>
 </br> </br>
 
-## <p align="center">Completed Projects</p>
-<p align="center">
-  
+## <p align="inline">Solutions of Codeforces' Problems</p>
+
 <a href="https://github.com/moheladwy/Solutions_Codeforces_Problems">
 <img height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=Solutions_Codeforces_Problems&theme=vue-dark">
 </a>
+
+## <p align="inline">Completed Projects</p>
+<p align="inline">
+  
 <a href="https://github.com/moheladwy/LoginSystem">
 <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=LoginSystem&theme=vue-dark">
 </a>
