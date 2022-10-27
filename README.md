@@ -1,8 +1,13 @@
 ## Hi there 👋
 My name is Mohamed Hussein Eladwy
+I am a Sophomore in Computer Science and Artificial Intelligence at Cairo University.
+### - 🌱 I’m currently learning:
+- Computer Hardware and How it works inside the machine, Calculus, Linear Algebra, Linear Programming, Statistics, Computer Network.
 
-I am a Sophomore in Computer Science and Artificial Intelligence at Cairo University
+- Programming consepts such as Structural Programming and OOP using C++ and How the memory works behind the scene. 
+The different between Compiled Language like CPlusPlus (C++) and Interpreted Language like Python.
 
+- How to write efficient algorithms for solving problems on codeforces (you can find my solutions for codeforces' problem on my repo).
 <!--
 **moheladwy/moheladwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 </br> </br>
 
-## <p align="center">My Github Stats</p>
+## <p align="center">My Stats</p>
 
 <p align="center">
 
