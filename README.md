@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<p align="inline"><img align="inline" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&theme=vue-dark&layout=compact"/>
+<p align="center"><img align="inline" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&theme=vue-dark&layout=compact"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=moheladwy&theme=vue-dark&show_icons=true&locale=en"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=moheladwy&theme=vue-dark&show_icons=true&locale=en"/>
 
-<p align="inline"><img align="inline" src="http://github-readme-streak-stats.herokuapp.com?user=moheladwy&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
+<p align="center"><img align="inline" src="http://github-readme-streak-stats.herokuapp.com?user=moheladwy&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
 
 </p>
 </br> </br>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=Solutions_Codeforces_Problems&theme=vue-dark">
 </a>
 <a href="https://github.com/moheladwy/LoginSystem">
-<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=LoginSystem&theme=vue-dark">
+<img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=LoginSystem&theme=vue-dark">
 </a>
 
 </p>
