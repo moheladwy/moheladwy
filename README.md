@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img height="50" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
 </p>
 
-### Follow me on:
+### - 📫 How to reach me:
 <p>
 <a href="https://www.linkedin.com/in/mohamedhusseineladwy/">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179001975-07bf6017-536a-4ed6-8094-ebfcb3de5df7.png">
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </p>
 </br> </br>
 
-## <p align="center">Newest projects</p>
+## <p align="center">Completed Projects</p>
 <p align="center">
   
 <a href="https://github.com/moheladwy/Solutions_Codeforces_Problems">
