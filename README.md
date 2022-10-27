@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <p>
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
+<img height="50" src="https://th.bing.com/th/id/R.d411d0ad310e2efbd49c34647c93123c?rik=WoETUkTsL8cWmw&pid=ImgRaw&r=0">
 </p>
 
 ### - 📫 How to reach me:
