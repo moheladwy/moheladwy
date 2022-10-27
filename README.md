@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<p align="center"><img align="inline" height="228" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&theme=vue-dark&layout=compact"/>
+<p align="center"><img align="inline" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&theme=vue-dark&layout=compact"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=moheladwy&theme=vue-dark&show_icons=true&locale=en"/>
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <p align="center">
   
 <a href="https://github.com/moheladwy/Solutions_Codeforces_Problems">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=Solutions_Codeforces_Problems&theme=vue-dark">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=Solutions_Codeforces_Problems&theme=vue-dark">
 </a>
 <a href="https://github.com/moheladwy/LoginSystem">
 <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=LoginSystem&theme=vue-dark">
