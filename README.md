@@ -2,7 +2,7 @@
 My name is Mohamed Hussein Eladwy, I am 20 years old.
 
 I am a Sophomore in Computer Science and Artificial Intelligence at Cairo University.
-### - 🌱 I’m currently learning:
+## - 🌱 I’m currently learning:
 - Computer Hardware and How it works inside the machine, Calculus, Linear Algebra, Linear Programming, Statistics, and Computer Network.
 
 - Programming consepts such as Structural Programming and OOP using C++ and How the memory works behind the scene. 
