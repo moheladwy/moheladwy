@@ -82,6 +82,39 @@ Here are some ideas to get you started:
 <p align="inline"><img align="inline" src="http://github-readme-streak-stats.herokuapp.com?user=moheladwy&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
 
 </p>
+
+<h2>GitHub Profile Overview</h2>
+  <p>
+    <a href="https://github.com/moheladwy">https://github.com/moheladwy</a>
+  </p>
+
+</br> </br>
+
+<h2>GitHub Contributions</h2>
+<p>
+  <a href="https://github.com/moheladwy?tab=contributions">https://github.com/moheladwy?tab=contributions</a>
+</p>
+
+<h2>GitHub Activity Graph</h2>
+<p>
+  <a href="https://github.com/moheladwy/graphs/contributors">https://github.com/moheladwy/graphs/contributors</a>
+</p>
+
+<h2>GitHub Stars</h2>
+<p>
+  <a href="https://github.com/moheladwy?tab=stars">https://github.com/moheladwy?tab=stars</a>
+</p>
+
+<h2>GitHub Followers</h2>
+<p>
+  <a href="https://github.com/moheladwy?tab=followers">https://github.com/moheladwy?tab=followers</a>
+</p>
+
+<h2>GitHub Gists</h2>
+<p>
+  <a href="https://gist.github.com/moheladwy">https://gist.github.com/moheladwy</a>
+</p>
+
 </br> </br>
 
 ## <p align="inline">Solutions of Codeforces' Problems using C++</p>
