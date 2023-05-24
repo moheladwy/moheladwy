@@ -83,11 +83,6 @@ Here are some ideas to get you started:
 
 </p>
 
-<h2>GitHub Profile Overview</h2>
-  <p>
-    <a href="https://github.com/moheladwy">https://github.com/moheladwy</a>
-  </p>
-
 </br> </br>
 
 ## <p align="inline">Solutions of Codeforces' Problems using C++</p>
