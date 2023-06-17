@@ -5,7 +5,7 @@ I am a Sophomore in Computer Science and Artificial Intelligence at Cairo Univer
 ## - 🌱 I’m currently learning:
 - Computer Hardware and How it works inside the machine, Calculus, Linear Algebra, Linear Programming, Statistics, and Computer Network.
 
-- Programming consepts such as Structural Programming and OOP using C++ and How the memory works behind the scene. 
+- Programming concepts such as Structural Programming and OOP using C++ and How the memory works behind the scene. 
 The different between Compiled Language like CPlusPlus (C++) and Interpreted Language like Python.
 
 - How to write efficient algorithms for solving problems on codeforces (you can find my solutions for codeforces' problem on my repo).
