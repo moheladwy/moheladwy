@@ -11,21 +11,6 @@ I am a 3rd Year Student at Computer Science and Artificial Intelligence at Cairo
 
 - How to write efficient algorithms for solving problems on Codeforces (you can find my solutions for Codeforces' problems on my repo).
 
-<!--
-**moheladwy/moheladwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Programming languages:
 
 <p>
@@ -33,7 +18,7 @@ Here are some ideas to get you started:
 <img height="60" src="https://th.bing.com/th/id/R.9700daf741d5f5b75abf6f7cee2c8be9?rik=%2fdfsBtxTyvR09A&pid=ImgRaw&r=0">
 <img height="60" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
 <img height="60" src="https://th.bing.com/th/id/R.d411d0ad310e2efbd49c34647c93123c?rik=WoETUkTsL8cWmw&pid=ImgRaw&r=0">
-<img height="60" src="">
+<img height="60" src="https://i1.pnghost.com/18/2/12/pngdb-studio-logos-c-the-ultimate-beginner-s-guide-microsoft-visual-c-2005-step-by-programming-for-beginners-computer-png-FbrSwFgs3NVJwugyALbpfa8H9_t.jpg">
 </p>
 
 ## - 📫 How to reach me:
