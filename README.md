@@ -1,16 +1,16 @@
 ## Hi there 👋
 My name is Mohamed Hussein Eladwy, I am 20 years old.
 
-I am a Sophomore in Computer Science and Artificial Intelligence at Cairo University.
+I am a 3rd Year Student at Computer Science and Artificial Intelligence at Cairo University.
 ## - 🌱 I’m currently learning:
-- Computer Hardware and How it works inside the machine, Calculus, Linear Algebra, Linear Programming, Statistics, and Computer Network.
+- Software Engineering and its cycle.
+- Web Development using (HTML, CSS, JS, Python-Django, and ASP.NET).
+- Data structures.
+- Relational Database Concepts, and How to use RDBMS like Microsoft SQL Server.
+- How to build real-world applications using .Net and C#.
 
-- Programming concepts such as Structural Programming and OOP using C++ and How the memory works behind the scene. 
-The different between Compiled Language like CPlusPlus (C++) and Interpreted Language like Python.
+- How to write efficient algorithms for solving problems on Codeforces (you can find my solutions for Codeforces' problems on my repo).
 
-- How to write efficient algorithms for solving problems on codeforces (you can find my solutions for codeforces' problem on my repo).
-
-- How to deal with local database using SQL with SQLite Engine.
 <!--
 **moheladwy/moheladwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <img height="60" src="https://th.bing.com/th/id/R.9700daf741d5f5b75abf6f7cee2c8be9?rik=%2fdfsBtxTyvR09A&pid=ImgRaw&r=0">
 <img height="60" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
 <img height="60" src="https://th.bing.com/th/id/R.d411d0ad310e2efbd49c34647c93123c?rik=WoETUkTsL8cWmw&pid=ImgRaw&r=0">
+<img height="60" src="">
 </p>
 
 ## - 📫 How to reach me:
@@ -91,20 +92,8 @@ Here are some ideas to get you started:
 <img height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=Solutions_Codeforces_Problems&theme=vue-dark">
 </a>
 
-## <p align="inline">CMD Projects written in C++</p>
-<p align="inline">
-  
-<a href="https://github.com/moheladwy/LoginSystem">
-<img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=LoginSystem&theme=vue-dark">
-</a>
+## <p align="inline">Toffee Shop System</p>
 
-</p>
-
-## <p align="inline">CMD Projects written in Python</p>
-<p align="inline">
-  
-<a href="https://github.com/moheladwy/OneLineMemoryGame-Python">
-<img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=OneLineMemoryGame-Python&theme=vue-dark">
+<a href="https://github.com/JLany/Sofware-Engineering-Project">
+<img heigt="153" src="https://github-readme-stats.vercel.app/api/pin/?username=JLany&repo=Sofware-Engineering-Project&theme=vue-dark">
 </a>
-  
-</p>
