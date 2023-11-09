@@ -82,3 +82,8 @@ I am a 3rd Year Student at Computer Science and Artificial Intelligence at Cairo
 <a href="https://github.com/JLany/Sofware-Engineering-Project">
 <img heigt="153" src="https://github-readme-stats.vercel.app/api/pin/?username=JLany&repo=Sofware-Engineering-Project&theme=vue-dark">
 </a>
+
+## <p align="inline">Electronyat Shop</p>
+<a href="https://github.com/moheladwy/ElectronyatShop">
+<img heigt="153" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=ElectronyatShop&theme=vue-dark">
+</a>
