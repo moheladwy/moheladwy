@@ -4,10 +4,10 @@ My name is Mohamed Hussein Eladwy, I am 20 years old.
 I am a 3rd Year Student at Computer Science and Artificial Intelligence at Cairo University.
 ## - 🌱 I’m currently learning:
 - Software Engineering and its cycle.
-- Web Development using (HTML, CSS, JS, Python-Django, and ASP.NET).
-- Data structures.
-- Relational Database Concepts, and How to use RDBMS like Microsoft SQL Server.
+- Backend Web Development using ASP.NET.
+- Data structures, and Algorithms.
 - How to build real-world applications using .Net and C#.
+- Operating Systems and how it's build like linux.
 
 - How to write efficient algorithms for solving problems on Codeforces (you can find my solutions for Codeforces' problems on my repo).
 
