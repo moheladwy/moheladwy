@@ -1,15 +1,20 @@
 ## Hi there 👋
-My name is Mohamed Hussein Eladwy, I am 20 years old.
+My name is Mohamed Hussein Al-adawy, I am 21 years old, and I am a Senior Student at the Faculty of Computer Science and Artificial Intelligence at Cairo University.
 
-I am a 3rd Year Student at Computer Science and Artificial Intelligence at Cairo University.
 ## - 🌱 I’m currently learning:
 - Software Engineering and its cycle.
-- Backend Web Development using ASP.NET.
-- Data structures, and Algorithms.
-- How to build real-world applications using .Net and C#.
-- Operating Systems and how it's build like linux.
+- Backend Web Development using ASP.Net.
+- Frontend Web Development using ReactJS.
+- How to build real-world applications using .NET and C#.
+- DevOps operations and its flow.
+- Operating Systems and how they're built, like Linux.
+- Writing efficient algorithms for solving problems on Codeforces (you can find my solutions for Codeforces' problems on my repo).
 
-- How to write efficient algorithms for solving problems on Codeforces (you can find my solutions for Codeforces' problems on my repo).
+## - 💼 My Experience:
+- ASP.NET Developer with experience in DevOps technologies like Docker, Ansible, and Jenkins.
+
+## - 🌐 My Portfolio:
+- [Visit my website portfolio to see more information about me.](https://al-adwy.netlify.app/)
 
 ## Programming languages:
 
@@ -31,17 +36,16 @@ I am a 3rd Year Student at Computer Science and Artificial Intelligence at Cairo
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179002044-763b6a85-1a13-4b63-9e29-247c8d94d02c.png">
 </a> 
 
-<a href="https://t.me/Mohamed1eladwy">
+<a href="https://t.me/MohamedAladwy">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179003173-7fe1e030-e834-441c-8293-dc618525ad6b.png">
 </a> 
 
 <a href="mailto:mohamed.h.eladwy@gmail.com">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179003389-f90c49c2-c9b5-4ae4-b3a2-3edfe1ad7dd2.png">
 </a>
-  
 </p>
 
-## - ⌨️ Websites that I practise on for problem solving:
+## - ⌨️ Websites that I practice on for problem-solving:
 
 <a href="https://codeforces.com/profile/wolfwar">
 <img height="60" src="https://user-images.githubusercontent.com/101745968/179003712-c6cac176-acd3-424f-bc51-b86e5a56ff4e.png">
@@ -52,21 +56,18 @@ I am a 3rd Year Student at Computer Science and Artificial Intelligence at Cairo
 </a>
 
 <a href="https://leetcode.com/mohamed_h_eladwy/">
-<img height="60" src="https://www.bing.com/th?id=AMMS_ce7ad2c1dbb8cf8ac6bf1f78f35afa8f&w=148&h=148&c=7&o=6&dpr=1.3&pid=SANGAM">
+<img height="60" src="https://commons.wikimedia.org/wiki/File:LeetCode_Logo_1.png">
 </a> 
-
 </br>
 
-## <p align="inline">My GitHub States</p>
+## <p align="inline">My GitHub Stats</p>
 
 <p align="inline">
-
-<p align="inline"><img align="inline" height="231" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&theme=vue-dark&layout=compact"/>
-
-<p align="inline"><img align="inline" src="https://github-readme-stats.vercel.app/api?username=moheladwy&theme=vue-dark&show_icons=true&locale=en"/>
-
-<p align="inline"><img align="inline" src="http://github-readme-streak-stats.herokuapp.com?user=moheladwy&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
-
+  <img align="inline" height="231" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&theme=vue-dark&layout=compact"/>
+  </br>
+  <img align="inline" src="https://github-readme-stats.vercel.app/api?username=moheladwy&theme=vue-dark&show_icons=true&locale=en"/>
+  </br>
+  <img align="inline" src="http://github-readme-streak-stats.herokuapp.com?user=moheladwy&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 </br> </br>
@@ -80,10 +81,11 @@ I am a 3rd Year Student at Computer Science and Artificial Intelligence at Cairo
 ## <p align="inline">Toffee Shop System</p>
 
 <a href="https://github.com/JLany/Sofware-Engineering-Project">
-<img heigt="153" src="https://github-readme-stats.vercel.app/api/pin/?username=JLany&repo=Sofware-Engineering-Project&theme=vue-dark">
+<img height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=JLany&repo=Sofware-Engineering-Project&theme=vue-dark">
 </a>
 
 ## <p align="inline">Electronyat Shop</p>
+
 <a href="https://github.com/moheladwy/ElectronyatShop">
-<img heigt="153" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=ElectronyatShop&theme=vue-dark">
+<img height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=ElectronyatShop&theme=vue-dark">
 </a>
