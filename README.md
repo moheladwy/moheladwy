@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Mohamed Hussein Al-adawy, I am 21 years old, and I am a Senior Student at the Faculty of Computer Science and Artificial Intelligence at Cairo University.
+My name is Mohamed Hussein Al-Adawy, I am 21 years old, and I am a Senior Student at the Faculty of Computer Science and Artificial Intelligence at Cairo University.
 
 ## - 🌱 I’m currently learning:
 - Software Engineering and its cycle.
@@ -11,10 +11,10 @@ My name is Mohamed Hussein Al-adawy, I am 21 years old, and I am a Senior Studen
 - Writing efficient algorithms for solving problems on Codeforces (you can find my solutions for Codeforces' problems on my repo).
 
 ## - 💼 My Experience:
-- ASP.NET Developer with experience in DevOps technologies like Docker, Ansible, and Jenkins.
+- ASP.NET Developer with experience in DevOps technologies like Docker, Ansible, Jenkins, Kubernetes, Terraform, and Prometheus.
 
 ## - 🌐 My Portfolio:
-- [Visit my website portfolio to see more information about me.](https://al-adwy.netlify.app/)
+- [Visit my website portfolio to see more information about me.](https://al-adawy.netlify.app/)
 
 ## Programming languages:
 
