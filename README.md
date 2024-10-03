@@ -63,29 +63,9 @@ My name is Mohamed Hussein Al-Adawy, I am 21 years old, and I am a Senior Studen
 ## <p align="inline">My GitHub Stats</p>
 
 <p align="inline">
-  <img align="inline" height="231" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&theme=vue-dark&layout=compact"/>
+  <img align="inline" height="250" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&theme=vue-dark&layout=compact"/>
   </br>
-  <img align="inline" src="https://github-readme-stats.vercel.app/api?username=moheladwy&theme=vue-dark&show_icons=true&locale=en"/>
+  <img align="inline" height="auto" width="auto" src="https://github-readme-stats.vercel.app/api?username=moheladwy&theme=vue-dark&show_icons=true&locale=en"/>
   </br>
-  <img align="inline" src="http://github-readme-streak-stats.herokuapp.com?user=moheladwy&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/>
+  <img align="inline" height="auto" width="auto" src="http://github-readme-streak-stats.herokuapp.com?user=moheladwy&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/>
 </p>
-
-</br> </br>
-
-## <p align="inline">Solutions of Codeforces' Problems using C++</p>
-
-<a href="https://github.com/moheladwy/Solutions_Codeforces_Problems">
-<img height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=Solutions_Codeforces_Problems&theme=vue-dark">
-</a>
-
-## <p align="inline">Toffee Shop System</p>
-
-<a href="https://github.com/JLany/Sofware-Engineering-Project">
-<img height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=JLany&repo=Sofware-Engineering-Project&theme=vue-dark">
-</a>
-
-## <p align="inline">Electronyat Shop</p>
-
-<a href="https://github.com/moheladwy/ElectronyatShop">
-<img height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=moheladwy&repo=ElectronyatShop&theme=vue-dark">
-</a>
