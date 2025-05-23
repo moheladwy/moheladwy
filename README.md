@@ -6,10 +6,10 @@ I'm **Mohamed Hussein Al-Adawy**, a **21-year-old Senior Student** at the Facult
 
 ## 🌱 Currently Learning
 - **Software Engineering** principles and lifecycle.
-- **Backend Development** with ASP.NET and C#.
-- **Frontend Development** with ReactJS and Bootstrap.
+- **Backend Development** with ASP.NET Framework/Core using C#, Microsoft SQL Server, Postgresql, Entity Framework.
+- **Frontend Development** with React, Javascript, Typescript, TailwindCSS, and Redux.
 - Building efficient **algorithms** and solving problems on platforms like Codeforces.
-- **DevOps Operations**: Docker, Kubernetes, Jenkins, Ansible, Terraform, and Prometheus.
+- **DevOps Operations**: Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, and Grafana.
 - **Operating Systems**: Exploring Linux architecture and tools.
 
 ---
