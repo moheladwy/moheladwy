@@ -1,6 +1,7 @@
 # Hi there 👋 
 
-I'm **Mohamed Hussein Al-Adawy**, a **21-year-old Senior Student** at the Faculty of Computer Science and Artificial Intelligence, **Cairo University**. I’m passionate about **building real-world applications**, solving challenging problems, and exploring the world of **DevOps and backend development**.
+I'm **Mohamed Hussein Al-Adawy**, a passionate and detail-oriented Software Engineer with expertise in ASP.NET Core, C#, SQL, backend development, and frontend technologies like React. Proven ability to design and implement scalable and robust web applications.
+
 
 ---
 
