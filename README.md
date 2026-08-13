@@ -65,5 +65,5 @@ Check out my portfolio for more details about my projects and experience:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&theme=vue-dark&layout=compact" alt="Top Languages" height="180">
   <img src="https://github-readme-stats.vercel.app/api?username=moheladwy&theme=vue-dark&show_icons=true" alt="GitHub Stats" height="180">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=moheladwy&theme=vue-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180">
+  <img src="https://streak-stats.demolab.com?user=moheladwy&theme=vue-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180">
 </p>
