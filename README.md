@@ -8,7 +8,6 @@
 
 Currently architecting serverless integrations at **RocketDevs** and owning the full software + on-prem infrastructure stack at the **Airforce War Studies Institute**.
 
-<a href="https://al-adwy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-al--adwy.netlify.app-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/mohamedhusseineladwy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mohamed.h.eladwy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://t.me/MohamedAladwy"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
@@ -19,11 +18,18 @@ Currently architecting serverless integrations at **RocketDevs** and owning the 
 
 ---
 
-## 🚀 What I'm Working On
+## 💡 What I Care About
 
-- **Serverless integration platform** — two-way Crisp ↔ Lark WhatsApp shared inbox on containerized AWS Lambdas, with webhook signature verification, hash-based event deduplication, and dead-letter fallback.
-- **Arabic-first (RTL) survey & reporting platform** — .NET 10 + Razor Pages + Dapper + SQL Server, orchestrated with .NET Aspire, OpenTelemetry, and Serilog. 9 locales, offline PDF/Excel reporting, 97-test suite.
-- **Legacy modernization** — upgrading an ASP.NET Web Forms system (.NET Framework 4.6 → 4.8), migrating ADO.NET → EF6, and porting the admin dashboard to ASP.NET Core Blazor.
+I like knowing how things work all the way down. That curiosity is why I've compiled a Linux kernel with deadlock detection and run it on an emulated ARM32 board, written an HTTP server in C to see what a framework actually hides, and daily-drive Arch with my own dotfiles.
+
+- **Architecture over frameworks** — SOLID, design patterns, and clean layering matter more to me than whichever library is trending. I care that a system is debuggable at 3am: structured logs, traces, idempotent retries, and a real test suite.
+- **Systems & low-level** — kernels, memory, concurrency, and performance. The closer to the metal, the more interesting the problem.
+- **Making AI genuinely useful** — I built a .NET client for the Groq API and won a hackathon with a real-time call assistant, and I'm drawn to LLM tooling that solves an actual workflow rather than demoing well.
+- **Developer tooling & Linux** — CLI tools that remove daily friction. [OCR4Linux](https://github.com/moheladwy/OCR4Linux) started as a personal annoyance with copying text from screenshots and turned into my most-used project by other people.
+- **Automating the boring parts** — infrastructure as code, reproducible environments, and pipelines that make deploys unremarkable.
+- **Algorithms as a habit** — 300+ problems on Codeforces, LeetCode, and UVA. It keeps the fundamentals sharp.
+
+Outside of shipping, I read a lot — computer architecture, operating systems, database internals, and, lately, finance. I'm a relentless docs reader, and I'd rather understand a thing properly than get it working by accident.
 
 ---
 
@@ -98,7 +104,6 @@ Currently architecting serverless integrations at **RocketDevs** and owning the 
 | **[Groq-Csharp](https://github.com/moheladwy/Groq-Csharb)** ⭐ 3 | .NET 8/9/10 client library for the Groq AI API | `C#` `.NET` `NuGet` |
 | **[TodoFullstack](https://github.com/moheladwy/TodoFullstack)** ⭐ 3 | Full-stack task manager — JWT auth, Redis caching, Docker Swarm, NGINX reverse proxy | `ASP.NET Core 8` `React TS` `SQL Server` `Redis` |
 | **[ElectronyatShop](https://github.com/moheladwy/ElectronyatShop)** ⭐ 6 | E-commerce site built as the ITI summer training capstone | `ASP.NET MVC` `SQL Server` |
-| **[SharpIDE](https://github.com/moheladwy/SharpIDE)** | Cross-platform IDE for .NET, built with .NET and Godot | `C#` `Godot` |
 
 ---
 
@@ -110,7 +115,7 @@ Currently architecting serverless integrations at **RocketDevs** and owning the 
 **Software Engineer & IT Infrastructure** · Airforce War Studies Institute — Jan 2026 – Present
 > Solo-built an Arabic-first survey and reporting platform (.NET 10, Aspire, Dapper, SQL Server). Administer the institute's on-prem infrastructure: database and app servers, networking, firewall, backups, and endpoint management.
 
-**Freelance Software Engineer** · Education Development Fund, Egyptian Cabinet — Mar 2025 – Present
+**Freelance Software Engineer** · Education Development Fund, Egyptian Cabinet — Mar 2025 – Aug 2025
 > Legacy ASP.NET modernization: .NET Framework 4.6 → 4.8, ADO.NET → EF6, E-Finance payment gateway integration, online examination subsystem, structured logging, and a Windows Server 2012 → 2022 migration.
 
 ---
@@ -135,10 +140,15 @@ Built an AI sales assistant that transcribes live calls in real time and surface
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moheladwy&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheladwy&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moheladwy&theme=tokyonight" alt="Profile details">
 
-<img height="165" src="https://streak-stats.demolab.com?user=moheladwy&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub streak">
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moheladwy&theme=tokyonight" alt="Top languages by repo">
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moheladwy&theme=tokyonight" alt="Most committed languages">
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moheladwy&theme=tokyonight" alt="GitHub stats">
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moheladwy&theme=tokyonight&utcOffset=2" alt="Productive time">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moheladwy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph">
 
 </div>
 
