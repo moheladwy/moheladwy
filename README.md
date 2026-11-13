@@ -99,7 +99,7 @@ Outside of shipping, I read a lot — computer architecture, operating systems, 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[OCR4Linux](https://github.com/moheladwy/OCR4Linux)** ⭐ 80 | CLI tool that extracts text from screenshots on Linux — works on both X11 and Wayland | `Bash` `Python` `Tesseract` |
+| **[OCR4Linux](https://github.com/moheladwy/OCR4Linux)** ⭐ 82 | CLI tool that extracts text from screenshots on Linux — works on both X11 and Wayland | `Bash` `Python` `Tesseract` |
 | **[ExpertBridge](https://github.com/moheladwy/ExpertBridge)** ⭐ 4 | Graduation project (4.0/4.0) — professional network connecting users with experts: personalized feeds, hiring, chat, AI content moderation, dual-role reputation | `ASP.NET Core 9` `React TS` `PostgreSQL` `pgvector` `Groq` `Docker` |
 | **[Groq-Csharp](https://github.com/moheladwy/Groq-Csharb)** ⭐ 3 | .NET 8/9/10 client library for the Groq AI API | `C#` `.NET` `NuGet` |
 | **[TodoFullstack](https://github.com/moheladwy/TodoFullstack)** ⭐ 3 | Full-stack task manager — JWT auth, Redis caching, Docker Swarm, NGINX reverse proxy | `ASP.NET Core 8` `React TS` `SQL Server` `Redis` |
